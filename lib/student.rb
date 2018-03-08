@@ -4,4 +4,8 @@ class Student
     puts "Pick me!\n"
 
   end
+
+  def hello
+
+  end
 end
