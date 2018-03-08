@@ -1,7 +1,7 @@
 class Student
 
   def raise_hand
-    "Pick me!\n"
+    puts "Pick me!\n"
 
   end
 end
